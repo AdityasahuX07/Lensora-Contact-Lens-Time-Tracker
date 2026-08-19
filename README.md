@@ -26,6 +26,12 @@ Lensora is a Compose Multiplatform application designed to help contact lens wea
 - **Manual Entry System**: Forget to hit start? Easily backdate and log wear sessions manually using the integrated date picker for any past day.
 - **Detailed History & Analytics**: Navigate your entire wearing history in the Reports screen. Review your logs day-by-day to visualize your wearing habits and track consistency.
 
+### 🎨 Deep Aesthetic Customization
+- **10+ Curated Color Themes**: Completely transform the app's look and feel with built-in palettes like *Glacier*, *Navy*, *Forest*, *Mint*, *Amethyst*, *Amber*, *Teal*, *Purple*, *Blue*, and *Rose*.
+- **LiquidGlass Navigation**: Elevate your UI with an optional, visually stunning *LiquidGlass* frosted and translucent bottom navigation bar.
+- **Typography & Clock Customization**: Tailor the main home screen timer's font, size, and specific color hex codes to perfectly match your personal aesthetic.
+- **App Icons & Styling**: Personalize the app's primary background colors and report card styles to build your ideal environment.
+
 ### 🏥 Medical & Prescription Management
 - **Lens Details**: Safely store intricate details including your exact prescription for both eyes (OD/OS), brand name, lens type, and unique identification numbers.
 - **Lifecycle Tracking**: Keep track of the exact date you received your current pair of lenses so you know when it's time to replace them.
@@ -35,14 +41,6 @@ Lensora is a Compose Multiplatform application designed to help contact lens wea
 <div align="center">
     <img width="4139" height="1123" alt="report_sample" src="https://github.com/user-attachments/assets/b9aa3b9c-d166-4200-ac6a-8f02320f44c5" />
 </div>
-
-
-
-### 🎨 Deep Aesthetic Customization
-- **10+ Curated Color Themes**: Completely transform the app's look and feel with built-in palettes like *Glacier*, *Navy*, *Forest*, *Mint*, *Amethyst*, *Amber*, *Teal*, *Purple*, *Blue*, and *Rose*.
-- **LiquidGlass Navigation**: Elevate your UI with an optional, visually stunning *LiquidGlass* frosted and translucent bottom navigation bar.
-- **Typography & Clock Customization**: Tailor the main home screen timer's font, size, and specific color hex codes to perfectly match your personal aesthetic.
-- **App Icons & Styling**: Personalize the app's primary background colors and report card styles to build your ideal environment.
 
 ## 🛠️ Tech Stack
 
