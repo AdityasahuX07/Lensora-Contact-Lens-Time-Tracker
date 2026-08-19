@@ -88,4 +88,4 @@ Lensora is a Compose Multiplatform application designed to help contact lens wea
 
 ## 📄 License
 This project is provided as-is. Please see the `LICENSE` file for more details.
-<img width="1024" alt="Lensora_Mockup_BlackText" src="https://github.com/user-attachments/assets/af9fd59b-c04b-4b17-bb15-a8834e1b8734" />
+
