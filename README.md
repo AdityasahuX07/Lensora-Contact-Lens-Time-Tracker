@@ -1,11 +1,17 @@
-# Lensora
+<h1 align="center">Lensora</h1>
+
+<div align="center">
+  <a href="https://github.com/AdityasahuX07/Lensora-Contact-Lens-Time-Tracker/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest_Release-success?style=for-the-badge&logo=download" alt="Download Latest Release" />
+  </a>
+</div>
 
 Lensora is a Compose Multiplatform application designed to help contact lens wearers track their daily usage, manage prescriptions, and monitor their eye health.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/565305ee-be5f-4fa0-9050-0cfe79991c29">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/ab7b2c3d-9400-440e-9538-1b5a39ded8cd">
-  <img width="1024" height="372" alt="Lensora Mockups" src="https://github.com/user-attachments/assets/16a276c5-74d7-40a0-ba8e-82a549990d30">
+  <img width="1024" alt="Lensora Mockups" src="https://github.com/user-attachments/assets/16a276c5-74d7-40a0-ba8e-82a549990d30">
 </picture>
 
 
@@ -75,4 +81,4 @@ Lensora is a Compose Multiplatform application designed to help contact lens wea
 
 ## 📄 License
 This project is provided as-is. Please see the `LICENSE` file for more details.
-<img width="1024" height="372" alt="Lensora_Mockup_BlackText" src="https://github.com/user-attachments/assets/af9fd59b-c04b-4b17-bb15-a8834e1b8734" />
+<img width="1024" alt="Lensora_Mockup_BlackText" src="https://github.com/user-attachments/assets/af9fd59b-c04b-4b17-bb15-a8834e1b8734" />
