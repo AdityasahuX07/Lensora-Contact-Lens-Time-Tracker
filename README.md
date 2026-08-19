@@ -30,6 +30,13 @@ Lensora is a Compose Multiplatform application designed to help contact lens wea
 - **Lens Details**: Safely store intricate details including your exact prescription for both eyes (OD/OS), brand name, lens type, and unique identification numbers.
 - **Lifecycle Tracking**: Keep track of the exact date you received your current pair of lenses so you know when it's time to replace them.
 - **Doctor Contacts**: Maintain your optometrist's or ophthalmologist's name, clinic availability, and set reminders for your next appointment.
+- **Generated Report**: This will create a printable report of pages to show your doctor. Bellow attached the sample exported report layout.
+
+<div align="center">
+    <img width="4139" height="1123" alt="report_sample" src="https://github.com/user-attachments/assets/b9aa3b9c-d166-4200-ac6a-8f02320f44c5" />
+</div>
+
+
 
 ### 🎨 Deep Aesthetic Customization
 - **10+ Curated Color Themes**: Completely transform the app's look and feel with built-in palettes like *Glacier*, *Navy*, *Forest*, *Mint*, *Amethyst*, *Amber*, *Teal*, *Purple*, *Blue*, and *Rose*.
